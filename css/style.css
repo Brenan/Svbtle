@@ -6,7 +6,15 @@ body{
 	font-size: 15px;
 }
 
-
+.logo {
+	border-left:6px solid #ccc;
+	color:#ccc;
+	font-weight: bold;
+	padding-left:10px;
+	margin-left:10px;
+	position:relative;
+	top:10px;
+}
 
 /*left column*/
 #leftnav {
